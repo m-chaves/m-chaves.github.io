@@ -3,8 +3,8 @@
 # Name of website
 title: Mariana Chaves
 logo: photo.jpg
-description: Statistician and Data Scientist
-show_downloads: true
+# description: Statistician and Data Scientist
+show_downloads: false
 google_analytics:
 # markdown: kramdown
 theme: jekyll-theme-minimal
