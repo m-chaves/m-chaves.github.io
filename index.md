@@ -2,7 +2,13 @@
 
 #### Statistician and Data Scientist
 
-I'm a creative statistician, passionate about data science, with four years of working experience in data modeling, visualization, extraction, and transformation. I'm currently doing my masters in Data Science and Artificial Intelligence at Université Côte d'Azur, France. I'm also working at the [I3S laboratory](https://www.i3s.unice.fr/) in a combined effort with the [MAASAI team at INRIA](https://team.inria.fr/maasai/).      
+I'm a creative statistician, passionate about data science, with four years of working experience in data modeling, visualization, extraction, and transformation. I'm currently doing my masters in Data Science and Artificial Intelligence at Université Côte d'Azur, France. I'm also working at the [I3S laboratory](https://www.i3s.unice.fr/) in a combined effort with the [MAASAI team at INRIA](https://team.inria.fr/maasai/). 
+
+Key words about me:
+<kbd>Data Science</kbd> <kbd>NLP</kbd> <kbd>Explainable AI</kbd> <kbd>Interpretability</kbd> 
+
+:email: mariana.chaves-espinoza@etu.univ-cotedazur.fr
+
 
 ## Education
 
@@ -48,9 +54,9 @@ I'm a creative statistician, passionate about data science, with four years of w
 
 ## Languages
 
-* **Spanish** C2 | Native
-* **English** C1 | TOEFL iBT
-* **French** B2 | DEFL
+* **Spanish** C2 - Native
+* **English** C1 - TOEFL iBT
+* **French** B2 - DEFL
 
 ## Main skills
 
@@ -64,13 +70,10 @@ I'm a creative statistician, passionate about data science, with four years of w
 ## Awards
 
 **UNIVERSITY OF COSTA RICA**
-
 Highest GPA among Statistics majors for three consecutive years : 2013, 2014, 2015.
 
 **UNIVERSITY OF COSTA RICA**
-
 Honorable Mention: Ninth highest score on Admission Exam 2012.
 
 **TECHNOLOGICAL INSTITUTE OF COSTA RICA**
-
 Honorable Mention: Highest score on Admission Exam 2012.

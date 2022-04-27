@@ -6,6 +6,7 @@ logo: photo2-modified.png
 # description: Statistician and Data Scientist
 show_downloads: false
 google_analytics:
+email: mariana.chaves-espinoza@etu.univ-cotedazur.fr
 # markdown: kramdown
 theme: jekyll-theme-minimal
 plugins: 
