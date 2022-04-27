@@ -7,7 +7,7 @@ I'm a creative statistician, passionate about data science, with four years of w
 Key words about me:
 <kbd>Data Science</kbd> <kbd>NLP</kbd> <kbd>Explainable AI</kbd> <kbd>Interpretability</kbd> 
 
-:email: mariana.chaves-espinoza@etu.univ-cotedazur.fr
+<i class="fa-solid fa-envelope"></i> mariana.chaves-espinoza@etu.univ-cotedazur.fr
 
 
 ## Education
