@@ -1,3 +1,18 @@
+---
+title: "EM algorithm for multivariate data"
+author: "Mariana Chaves and Franz Franco Gallo"
+output:
+  html_document:
+    code_download: yes
+    highlight: tango
+    number_sections: no
+    theme: flatly
+    toc: TRUE
+    toc_float: TRUE
+editor_options: 
+  chunk_output_type: inline
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/m-chaves/m-chaves.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
