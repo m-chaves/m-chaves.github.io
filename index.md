@@ -11,8 +11,6 @@ I'm a creative statistician, passionate about data science, with four years of w
 
 **e-mail**: mariana.chaves-espinoza@etu.univ-cotedazur.fr
 
-# CV {.tabset}
-
 ## Education
 
 > **MSc DATA SCIENCE AND ARTIFICIAL INTELLIGENCE**  
@@ -80,5 +78,3 @@ Honorable Mention: Ninth highest score on Admission Exam 2012.
 
 **TECHNOLOGICAL INSTITUTE OF COSTA RICA**
 Honorable Mention: Highest score on Admission Exam 2012.
-
-# Other tab {.tabset}
