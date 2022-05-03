@@ -1,31 +1,3 @@
-<!-- <head> -->
-  <!-- Required meta tags -->
-  <!-- <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
-
-  <!-- Bootstrap CSS -->
-  <!-- <link rel="stylesheet" href="css/bootstrap.css" crossorigin="anonymous">
-
-      <title>Mariana Chaves</title>
-</head> -->
-
-<!-- <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="./index.html">Mariana Chaves</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarColor03">
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="./cv.md">CV</a>
-        </li>
-      </ul>
-
-    </div>
-  </nav> -->
-
-
 ## Profile
 
 #### Statistician and Data Scientist
