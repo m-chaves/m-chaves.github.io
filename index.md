@@ -4,14 +4,11 @@
 
 I'm a creative statistician, passionate about data science, with four years of working experience in data modeling, visualization, extraction, and transformation. I'm currently doing my masters in Data Science and Artificial Intelligence at Université Côte d'Azur, France. I'm also working at the [I3S laboratory](https://www.i3s.unice.fr/) in a combined effort with the [MAASAI team at INRIA](https://team.inria.fr/maasai/). 
 
-#### Keywords about me:
+Key words about me:
 <kbd>Data Science</kbd> <kbd>NLP</kbd> <kbd>Explainable AI</kbd> <kbd>Interpretability</kbd> 
-
-#### Contact
 
 **e-mail**: mariana.chaves-espinoza@etu.univ-cotedazur.fr
 
-# CV {.tabset}
 
 ## Education
 
@@ -80,5 +77,3 @@ Honorable Mention: Ninth highest score on Admission Exam 2012.
 
 **TECHNOLOGICAL INSTITUTE OF COSTA RICA**
 Honorable Mention: Highest score on Admission Exam 2012.
-
-# Other tab {.tabset}
