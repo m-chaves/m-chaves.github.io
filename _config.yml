@@ -1,11 +1,23 @@
 # theme: jekyll-theme-minimal
 
-# Name of website
-title: <center>Mariana Chaves</center>
-logo: photo2-modified.png
-# description: Statistician and Data Scientist
-show_downloads: false
-google_analytics:
-# markdown: kramdown
-theme: jekyll-theme-minimal
+# # Name of website
+# title: <center>Mariana Chaves</center>
+# logo: photo2-modified.png
+# # description: Statistician and Data Scientist
+# show_downloads: false
+# google_analytics:
+# # markdown: kramdown
+# theme: jekyll-theme-minimal
 
+title: "Processing large datasets in R"
+author: "Mariana Chaves Espinoza"
+output:
+  html_document:
+    code_download: yes
+    highlight: tango
+    number_sections: no
+    theme: flatly
+    toc: FALSE
+    toc_float: FALSE
+editor_options: 
+  chunk_output_type: console
