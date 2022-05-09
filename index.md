@@ -18,7 +18,19 @@
     <div class="collapse navbar-collapse" id="navbarColor03">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a class="nav-link" href="./cv.md">CV</a>
+          <a class="nav-link" href="./about.md">Research</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./about.md">CV</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./about.md">Publications</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./about.md">Teaching</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./about.md">Open positions</a>
         </li>
       </ul>
 
