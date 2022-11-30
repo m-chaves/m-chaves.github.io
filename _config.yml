@@ -1,8 +1,9 @@
 # theme: jekyll-theme-minimal
 
 # Name of website
-title: <center>Mariana Chaves</center>
-logo: photo2-modified.png
+# title: <center>Mariana Chaves</center>
+title: Mariana Chaves
+logo: photo4-cropped.png
 # description: Statistician and Data Scientist
 show_downloads: false
 google_analytics:
