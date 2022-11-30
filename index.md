@@ -9,8 +9,7 @@ These projects took place as part of [I3S laboratory](https://www.i3s.unice.fr/)
 Key words about me:
 <kbd>Data Science</kbd> <kbd>NLP</kbd> <kbd>Explainable AI</kbd> <kbd>Interpretable AI</kbd> <kbd>Statistics</kbd>
 
-**e-mail**: marianach16@gmail.com or mariana.chaves-espinoza@etu.univ-cotedazur.fr
-
+**e-mail**: marianach16@gmail.com or mariana.chaves.e@outlook.com
 
 ## Education
 
