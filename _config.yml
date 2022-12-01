@@ -6,7 +6,8 @@ title: Mariana Chaves
 logo: img/photo4-modified.png
 # description: Statistician and Data Scientist
 show_downloads: false
-google_analytics:
+github: false
+google_analytics: true
 # markdown: kramdown
 theme: jekyll-theme-minimal
 
