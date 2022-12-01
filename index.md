@@ -37,7 +37,7 @@ Key words about me:
 > **INTERNSHIP**  
 > **[Université Côte d’Azur](https://univ-cotedazur.fr/laboratoires/laboratoire-jean-alexandre-dieudonne-ljad-1) and [INRIA](https://team.inria.fr/maasai/), France** | *April 2021 - July 2021*
 > 
-> Worked on model agnostic interpretability methods in the ambit of images. More specifically, improving resampling process for LIME. Read the full work [here](https://team.inria.fr/maasai/).
+> Worked on model agnostic interpretability methods in the ambit of images. More specifically, improving resampling process for LIME. Read the full work [here](https://github.com/m-chaves/m-chaves.github.io/blob/main/LIME_resampling_methods.pdf).
 
 ### Industry
 
