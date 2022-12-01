@@ -6,10 +6,13 @@ In particular, prototype-based interpretable neural networks and local interpret
 More broadly, I have been working with natural language processing and text classification models.     
 These projects took place as part of [I3S laboratory](https://www.i3s.unice.fr/) in a combined effort with the [MAASAI team at INRIA](https://team.inria.fr/maasai/). 
 
+[Download CV here](https://m-chaves.github.io/CV.pdf)
+
 Key words about me:
 <kbd>Data Science</kbd> <kbd>NLP</kbd> <kbd>Explainable AI</kbd> <kbd>Interpretable AI</kbd> <kbd>Statistics</kbd>
 
 **e-mail**: marianach16@gmail.com or mariana.chaves.e@outlook.com
+
 
 ## Education
 
@@ -37,7 +40,7 @@ Key words about me:
 > **INTERNSHIP**  
 > **[Université Côte d’Azur](https://univ-cotedazur.fr/laboratoires/laboratoire-jean-alexandre-dieudonne-ljad-1) and [INRIA](https://team.inria.fr/maasai/), France** | *April 2021 - July 2021*
 > 
-> Worked on model agnostic interpretability methods in the ambit of images. More specifically, improving resampling process for LIME. Read the full work [here](https://github.com/m-chaves/m-chaves.github.io/blob/main/LIME_resampling_methods.pdf).
+> Worked on model agnostic interpretability methods in the ambit of images. More specifically, improving resampling process for LIME. Read the full work [here](https://m-chaves.github.io/LIME_resampling_methods.pdf).
 
 ### Industry
 
