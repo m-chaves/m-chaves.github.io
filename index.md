@@ -4,7 +4,7 @@ I'm a **statistician and data scientist** with 7 years of working experience in 
 Recently, I have been researching explainable and interpretable AI. 
 In particular, prototype-based interpretable neural networks and local interpretable model-agnostic explanations (LIME).
 More broadly, I have been working with natural language processing and text classification models.     
-These projects took place as part of [I3S laboratory](https://www.i3s.unice.fr/) in a combined effort with the [MAASAI team at INRIA](https://team.inria.fr/maasai/). 
+<!-- These projects took place as part of [I3S laboratory](https://www.i3s.unice.fr/) in a combined effort with the [MAASAI team at INRIA](https://team.inria.fr/maasai/).  -->
 
 [Download CV here](https://m-chaves.github.io/CV.pdf)
 
@@ -31,6 +31,12 @@ Key words about me:
 ## Work experience
 
 ### Research
+
+> **RESEARCH ENGINEER**  
+> **[INRIA, WIMMICS team](https://www.inria.fr/en/wimmics) and [I3S laboratory](https://www.i3s.unice.fr/), France** | *April 2023 - Present*
+> 
+> Research in natural language processing (NLP) focused on AI models and techniques that utilize argumentation graphs as well as other text data derived features to identify propaganda in social media contexts. 
+
 
 > **INTERNSHIP**  
 > **[I3S laboratory](https://www.i3s.unice.fr/) and [INRIA](https://team.inria.fr/maasai/), France** | *March 2022 - August 2022*
@@ -84,4 +90,4 @@ Honorable Mention: Highest score on Admission Exam 2012.
 * **Spanish** C2 - Native
 * **English** C1
 * **French** B2
-<!-- * **Portuguese** A1 -->
+* **Portuguese** A2
