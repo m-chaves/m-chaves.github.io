@@ -9,7 +9,7 @@ More broadly, I have been working with natural language processing and text clas
 [Download CV here](https://m-chaves.github.io/CV.pdf)
 
 Key words about me:
-<kbd>Data Science</kbd> <kbd>NLP</kbd> <kbd>Explainable AI</kbd> <kbd>Interpretable AI</kbd> <kbd>Statistics</kbd>
+<kbd>Data Science</kbd> <kbd>NLP</kbd> <kbd>Explainable AI</kbd> <kbd>Interpretable AI</kbd> <kbd>Statistics</kbd> <kbd>Machine Learning</kbd>
 
 **e-mail**: marianach16@gmail.com or mariana.chaves.e@outlook.com
 
@@ -35,13 +35,13 @@ Key words about me:
 > **RESEARCH ENGINEER**  
 > **[INRIA, WIMMICS team](https://www.inria.fr/en/wimmics) and [I3S laboratory](https://www.i3s.unice.fr/), France** | *April 2023 - Present*
 > 
-> Research in natural language processing (NLP) focused on AI models and techniques that utilize argumentation graphs as well as other text data derived features to identify propaganda in social media contexts. 
+> Research in natural language processing (NLP) focused on models and techniques that utilize argumentation and other text data derived features to identify propaganda in social media contexts.
 
 
 > **INTERNSHIP**  
 > **[I3S laboratory](https://www.i3s.unice.fr/) and [INRIA](https://team.inria.fr/maasai/), France** | *March 2022 - August 2022*
 > 
-> Worked on prototype-based interpretable neural networks approaches for text classification. This study lies on the framework of ANR TRACTIVE, a project that regroups researchers several disciplines for the understanding of gender representation in visual media.  
+> Worked on prototype-based interpretable neural networks approaches for text classification. This study lies on the framework of ANR TRACTIVE, a project that regroups researchers several disciplines for the understanding of gender representation in visual media. It involved implementing various NLP techniques and text classification models. 
 
 > **INTERNSHIP**  
 > **[Université Côte d’Azur](https://univ-cotedazur.fr/laboratoires/laboratoire-jean-alexandre-dieudonne-ljad-1) and [INRIA](https://team.inria.fr/maasai/), France** | *April 2021 - July 2021*
