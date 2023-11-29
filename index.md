@@ -1,15 +1,19 @@
 ## About me
 
 I'm a **statistician and data scientist** with 7 years of working experience in data modeling, visualization, extraction, and transformation. 
+Recently, I have been researching natural language processing techniques and text models in the context of fallacy detection and classification. 
+I also worked in explainable and interpretable AI. 
+In particular, with prototype-based interpretable neural networks and local interpretable model-agnostic explanations (LIME). 
+<!-- I'm a **statistician and data scientist** with 7 years of working experience in data modeling, visualization, extraction, and transformation. 
 Recently, I have been researching explainable and interpretable AI. 
 In particular, prototype-based interpretable neural networks and local interpretable model-agnostic explanations (LIME).
-More broadly, I have been working with natural language processing and text classification models.     
+More broadly, I have been working with natural language processing and text classification models.      -->
 <!-- These projects took place as part of [I3S laboratory](https://www.i3s.unice.fr/) in a combined effort with the [MAASAI team at INRIA](https://team.inria.fr/maasai/).  -->
 
 [Download CV here](https://m-chaves.github.io/CV.pdf)
 
 Key words about me:
-<kbd>Data Science</kbd> <kbd>NLP</kbd> <kbd>Explainable AI</kbd> <kbd>Interpretable AI</kbd> <kbd>Statistics</kbd> <kbd>Machine Learning</kbd>
+<kbd>Natural Language Processing</kbd> <kbd>Data Science</kbd> <kbd>Explainable AI</kbd> <kbd>Interpretable AI</kbd> <kbd>Statistics</kbd> <kbd>Machine Learning</kbd> <kbd>Argumentation</kbd> <kbd>Fallacies</kbd>
 
 **e-mail**: marianach16@gmail.com or mariana.chaves.e@outlook.com
 
@@ -35,7 +39,7 @@ Key words about me:
 > **RESEARCH ENGINEER**  
 > **[INRIA, WIMMICS team](https://www.inria.fr/en/wimmics) and [I3S laboratory](https://www.i3s.unice.fr/), France** | *April 2023 - Present*
 > 
-> Research in natural language processing (NLP) focused on models and techniques that utilize argumentation and other text data derived features to identify propaganda in social media contexts.
+> Research in natural language processing (NLP) focused on models and techniques that utilize argumentation and other text data derived features to identify propaganda in social media and political debate contexts.
 
 
 > **INTERNSHIP**  
@@ -89,5 +93,5 @@ Honorable Mention: Highest score on Admission Exam 2012.
 
 * **Spanish** C2 - Native
 * **English** C1
+* **Portuguese** C1
 * **French** B2
-* **Portuguese** A2
