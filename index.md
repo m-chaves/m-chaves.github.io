@@ -82,10 +82,13 @@ Honorable Mention: Highest score on Admission Exam 2012.
 
 ## Main skills
 
-- python
-- R
-- LaTeX
-- SQL
+<kbd>python</kbd> <kbd>R</kbd> <kbd>LaTeX</kbd> <kbd>SQL</kbd>
+
+
+<!-- - python -->
+<!-- - R -->
+<!-- - LaTeX -->
+<!-- - SQL -->
 <!-- - Tableau -->
 <!-- - Alteryx -->
 
@@ -95,3 +98,12 @@ Honorable Mention: Highest score on Admission Exam 2012.
 * **English** C1
 * **Portuguese** C1
 * **French** B2
+
+```mermaid
+flowchart LR
+
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
