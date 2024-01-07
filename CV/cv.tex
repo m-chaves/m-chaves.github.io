@@ -1,0 +1,279 @@
+%%%%%%%%%%%%%%%%%
+% This is an sample CV template created using altacv.cls
+% (v1.6.5, 3 Nov 2022) written by LianTze Lim (liantze@gmail.com), based on the
+% CV created by BusinessInsider at http://www.businessinsider.my/a-sample-resume-for-marissa-mayer-2016-7/?r=US&IR=T
+%
+%% It may be distributed and/or modified under the
+%% conditions of the LaTeX Project Public License, either version 1.3
+%% of this license or (at your option) any later version.
+%% The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.3 or later is part of all distributions of LaTeX
+%% version 2003/12/01 or later.
+%%%%%%%%%%%%%%%%
+
+%% Use the "normalphoto" option if you want a normal photo instead of cropped to a circle
+% \documentclass[10pt,a4paper,normalphoto]{altacv}
+
+\documentclass[10pt,a4paper,ragged2e,withhyper]{altacv}
+
+%% AltaCV uses the fontawesome5 package.
+%% See http://texdoc.net/pkg/fontawesome5 for full list of symbols.
+
+% Change the page layout if you need to
+\geometry{left=1.25cm,right=1.25cm,top=1.5cm,bottom=1.5cm,columnsep=1.2cm}
+
+% The paracol package lets you typeset columns of text in parallel
+\usepackage{paracol}
+
+\usepackage{bibentry}
+
+% Change the font if you want to, depending on whether
+% you're using pdflatex or xelatex/lualatex
+\ifxetexorluatex
+  % If using xelatex or lualatex:
+  \setmainfont{Lato}
+\else
+  % If using pdflatex:
+  \usepackage[default]{lato}
+\fi
+
+% Change the colours if you want to
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+\definecolor{MyBlue}{HTML}{005b96}
+\definecolor{LighterBlue}{HTML}{327bab}
+% \colorlet{name}{black}
+\colorlet{tagline}{MyBlue}
+\colorlet{heading}{MyBlue}
+\colorlet{headingrule}{MyBlue}
+\colorlet{subheading}{MyBlue}
+\colorlet{accent}{LighterBlue}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+% Change some fonts, if necessary
+% \renewcommand{\namefont}{\Huge\rmfamily\bfseries}
+% \renewcommand{\personalinfofont}{\footnotesize}
+% \renewcommand{\cvsectionfont}{\LARGE\rmfamily\bfseries}
+\renewcommand{\cvsectionfont}{\Large\bfseries}
+% \renewcommand{\cvsubsectionfont}{\large\bfseries}
+
+% Change the bullets for itemize and rating marker
+% for \cvskill if you want to
+\renewcommand{\itemmarker}{{\small\textbullet}}
+\renewcommand{\ratingmarker}{\faCircle}
+
+%% Use (and optionally edit if necessary) this .tex if you
+%% want to use an author-year reference style like APA(6)
+%% for your publication list
+% \input{pubs-authoryear}
+
+%% Use (and optionally edit if necessary) this .tex if you
+%% want an originally numerical reference style like IEEE
+%% for your publication list
+% \input{pubs-num}
+
+%% sample.bib contains your publications
+% \addbibresource{sample.bib}
+
+\begin{document}
+\name{Mariana Chaves}
+\tagline{Statistician and data scientist}
+% Cropped to square from https://en.wikipedia.org/wiki/Marissa_Mayer#/media/File:Marissa_Mayer_May_2014_(cropped).jpg, CC-BY 2.0
+%% You can add multiple photos on the left or right
+% \photoR{2.5cm}{mmayer-wikipedia-cc-by-2_0}
+% \photoL{2cm}{Yacht_High,Suitcase_High}
+\personalinfo{%
+  % Not all of these are required!
+  % You can add your own with \printinfo{symbol}{detail}
+  \email{marianach16@gmail.com}
+  % \phone{+33 674280830 or +506 64628057}
+  \phone{+33 674280830}
+  % \mailaddress{Address, Street, 00000 County}
+  \location{Nice, France}
+  \printinfo{\faBirthdayCake}{Costa Rica 16/10/1995}
+  \homepage{m-chaves.github.io}
+  % \linkedin{marissamayer}
+%   \github{github.com/mmayer} % I'm just making this up though.
+%   \orcid{0000-0000-0000-0000} % Obviously making this up too.
+  %% You can add your own arbitrary detail with
+  %% \printinfo{symbol}{detail}[optional hyperlink prefix]
+  % \printinfo{\faPaw}{Hey ho!}
+  %% Or you can declare your own field with
+  %% \NewInfoFiled{fieldname}{symbol}[optional hyperlink prefix] and use it:
+  % \NewInfoField{gitlab}{\faGitlab}[https://gitlab.com/]
+  % \gitlab{your_id}
+	%%
+  %% For services and platforms like Mastodon where there isn't a
+  %% straightforward relation between the user ID/nickname and the hyperlink,
+  %% you can use \printinfo directly e.g.
+  % \printinfo{\faMastodon}{@username@instace}[https://instance.url/@username]
+  %% But if you absolutely want to create new dedicated info fields for
+  %% such platforms, then use \NewInfoField* with a star:
+  % \NewInfoField*{mastodon}{\faMastodon}
+  %% then you can use \mastodon, with TWO arguments where the 2nd argument is
+  %% the full hyperlink.
+  % \mastodon{@username@instance}{https://instance.url/@username}
+}
+
+\makecvheader
+
+\cvsection{About me}
+
+I'm a \textbf{statistician and data scientist} with 7 years of working experience in data modeling, visualization, extraction, and transformation. 
+Recently, I have been researching natural language processing techniques and text models in the context of fallacy detection and classification. I also worked in explainable and interpretable AI. In particular, with prototype-based interpretable neural networks and local interpretable model-agnostic explanations (LIME). 
+
+%% Depending on your tastes, you may want to make fonts of itemize environments slightly smaller
+\AtBeginEnvironment{itemize}{\small}
+
+%% Set the left/right column width ratio to 6:4.
+\columnratio{0.6}
+
+% Start a 2-column paracol. Both the left and right columns will automatically
+% break across pages if things get too long.
+\begin{paracol}{2}
+
+
+\cvsection{Work experience}
+
+\cvevent{Research Engineer}{Inria, France}{2023 - Present}{}{Research in natural language processing (NLP) focused on models and techniques that utilize argumentation and other text data derived features to identify fallacious arguments in social media and political debate contexts.}
+
+\divider
+
+\cvevent{Research internship}{I3S and Inria, France}{2022}{}
+{
+Research on prototype-based interpretable neural networks, other text classification models and NLP techniques applied to the understanding of gender representation in visual media. 
+% Research on prototype-based interpretable neural networks approaches for text classification.  
+% This study lied on the framework of ANR TRACTIVE, a project that regroups researchers several disciplines for the understanding of gender representation in visual media. 
+% It involved implementing various NLP techniques and text classification models.
+}
+
+\divider
+
+\cvevent{Research internship}{Inria and Université Côte d'Azur, France}{2021}{}{Research on model agnostic interpretability methods in the ambit of images. More specifically, improving resampling process for local interpretable model-agnostic explanations (LIME).}
+
+\divider
+
+\cvevent{Data scientist}{Walmart Supply Chain Analytics USA}{2018 - 2020}{}{Directed and developed data analysis projects. 
+% to provide agile solutions to business partners. 
+Main projects included an anomaly detection system, statistical sampling design, and consumption layer design.}
+
+\divider
+
+\cvevent{Data analyst}{Walmart Supply Chain Analytics USA}{2017 - 2018}{}{Data extraction, transformation, and visualization. Main projects included statistical process control techniques and KPI development.}
+
+\divider
+
+\cvevent{Data analyst}{BAC Credomatic Regional Compliance Management, Costa Rica}{2016}{}{Developed money laundering detection models for five Central American countries.}
+
+
+% \cvsection{A Day of My Life}
+
+% % Adapted from @Jake's answer from http://tex.stackexchange.com/a/82729/226
+% % \wheelchart{outer radius}{inner radius}{
+% % comma-separated list of value/text width/color/detail}
+% % Some ad-hoc tweaking to adjust the labels so that they don't overlap
+% \hspace*{-1em}  %% quick hack to move the wheelchart a bit left
+% \wheelchart{1.5cm}{0.5cm}{%
+%   10/13em/accent!30/Sleeping \& dreaming about work,
+%   25/9em/accent!60/Public resolving issues with Yahoo!\ investors,
+%   5/11em/accent!10/\footnotesize\\[1ex]New York \& San Francisco Ballet Jawbone board member,
+%   20/11em/accent!40/Spending time with family,
+%   5/8em/accent!20/\footnotesize Business development for Yahoo!\ after the Verizon acquisition,
+%   30/9em/accent/Showing Yahoo!\ \mbox{employees} that their work has meaning,
+%   5/8em/accent!20/Baking cupcakes
+% }
+
+% use ONLY \newpage if you want to force a page break for
+% ONLY the currentc column
+\newpage
+
+% \cvsection{Publications}
+
+% %% Specify your last name(s) and first name(s) as given in the .bib to automatically bold your own name in the publications list.
+% %% One caveat: You need to write \bibnamedelima where there's a space in your name for this to work properly; or write \bibnamedelimi if you use initials in the .bib
+% %% You can specify multiple names, especially if you have changed your name or if you need to highlight multiple authors.
+% \mynames{Lim/Lian\bibnamedelima Tze,
+%   Wong/Lian\bibnamedelima Tze,
+%   Lim/Tracy,
+%   Lim/L.\bibnamedelimi T.}
+% %% MAKE SURE THERE IS NO SPACE AFTER THE FINAL NAME IN YOUR \mynames LIST
+
+% \nocite{*}
+
+% \printbibliography[heading=pubtype,title={\printinfo{\faBook}{Books}},type=book]
+
+% \divider
+
+% \printbibliography[heading=pubtype,title={\printinfo{\faFile*[regular]}{Journal Articles}}, type=article]
+
+% \divider
+
+% \printbibliography[heading=pubtype,title={\printinfo{\faUsers}{Conference Proceedings}},type=inproceedings]
+
+%% Switch to the right column. This will now automatically move to the second
+%% page if the content is too long.
+\switchcolumn
+
+\cvsection{Education}
+
+\cvevent{MSc Data science and artificial intelligence}{Université Côte d’Azur (UCA), France}{2020 - 2022}{}{\faAward Honors Graduate (\emph{Mention Très Bien})}
+
+\divider 
+
+\cvevent{Bachelor in Statistics}{University of Costa Rica (UCR), Costa Rica}{2013 - 2017}{}{\faAward Honors Graduate}
+
+\cvsection{Awards}
+
+\cvachievement{\faAward}{Highest GPA among Statistics majors for three consecutive years: 2013, 2014, 2015.}{University of Costa Rica (UCR)}
+
+% \divider
+
+\cvachievement{\faAward}{Honorable Mention: Ninth highest score on Admission Exam 2012.}{University of Costa Rica (UCR)}
+
+% \divider
+
+\cvachievement{\faAward}{Honorable Mention: Highest score on Admission Exam 2012.}{Technological Institute of Costa Rica (TEC)}
+
+\cvsection{Main skills}
+
+\cvtag{Python}
+\cvtag{R}
+\cvtag{LaTeX}
+\cvtag{SQL}
+
+\cvsection{Languages}
+
+\cvskill{English - C1}{2.5}
+\cvskill{Spanish - C2 (Native)}{3}
+\cvskill{Portuguese - C1}{2.5}
+\cvskill{French - B2}{2} %% supports X.5 values.
+
+
+\cvsection{Publications}
+
+% Temporal 
+Pierpaolo Goffredo, Mariana Chaves, Serena Villata, and Elena Cabrio. 2023. Argument-based Detection and Classification of Fallacies in Political Debates. EMNLP.
+
+% \nocite{*}
+% \printbibliography[heading=pubtype,title={\printinfo{\faUsers}{Conference Proceedings}},type=inproceedings]
+
+
+\newpage
+
+% \cvsection{Referees}
+
+% % \cvref{name}{email}{mailing address}
+% \cvref{Prof.\ Alpha Beta}{Institute}{a.beta@university.edu}
+% {Address Line 1\\Address line 2}
+
+% \divider
+
+% \cvref{Prof.\ Gamma Delta}{Institute}{g.delta@university.edu}
+% {Address Line 1\\Address line 2}
+
+\end{paracol}
+
+
+\end{document}
