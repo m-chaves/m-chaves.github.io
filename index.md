@@ -71,14 +71,14 @@ Key words about me:
 
 ## Awards
 
-**UNIVERSITY OF COSTA RICA**
-Highest GPA among Statistics majors for three consecutive years : 2013, 2014, 2015.
+**Highest GPA among Statistics majors for three consecutive years : 2013, 2014, 2015.**
+UNIVERSITY OF COSTA RICA
 
-**UNIVERSITY OF COSTA RICA**
-Honorable Mention: Ninth highest score on Admission Exam 2012.
+**Honorable Mention: Ninth highest score on Admission Exam 2012.**
+UNIVERSITY OF COSTA RICA
 
-**TECHNOLOGICAL INSTITUTE OF COSTA RICA**
-Honorable Mention: Highest score on Admission Exam 2012.
+**Honorable Mention: Highest score on Admission Exam 2012.**
+TECHNOLOGICAL INSTITUTE OF COSTA RICA
 
 ## Main skills
 
@@ -94,7 +94,7 @@ Honorable Mention: Highest score on Admission Exam 2012.
 
 ## Languages
 
-* **Spanish** C2 - Native
 * **English** C1
+* **Spanish** C2 - Native
 * **Portuguese** C1
 * **French** B2
