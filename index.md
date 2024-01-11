@@ -96,5 +96,5 @@ TECHNOLOGICAL INSTITUTE OF COSTA RICA
 
 * **English** C1
 * **Spanish** C2 - Native
-* **Portuguese** C1
+* **Portuguese** B2/C1
 * **French** B2
