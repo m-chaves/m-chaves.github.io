@@ -1,13 +1,20 @@
 # theme: jekyll-theme-minimal
 
-# Name of website
-title: <center>Mariana Chaves</center>
+# # Name of website
+# title: <center>Mariana Chaves</center>
+# title: Mariana Chaves
+# logo: img/photo4-modified.png
+# # description: Statistician and Data Scientist
+# # show_downloads: false
+# # github: true
+# # google_analytics: true
+# markdown: kramdown
+# theme: jekyll-theme-minimal
+
+
 title: Mariana Chaves
 logo: img/photo4-modified.png
-description: Statistician and Data Scientist
-# show_downloads: false
-# github: true
-# google_analytics: true
-markdown: kramdown
+description: I'm a <b>statistician and data scientist</b> with 7 years of working experience in data modeling, visualization, extraction, and transformation. Recently, I have been researching natural language processing techniques and text models in the context of fallacy detection and classification. I also worked in explainable and interpretable AI. In particular, with prototype-based interpretable neural networks and local interpretable model-agnostic explanations (LIME).
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
-
