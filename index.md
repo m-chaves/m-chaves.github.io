@@ -43,12 +43,12 @@ Key words about me:
 
 
 > **INTERNSHIP**  
-> **[I3S laboratory](https://www.i3s.unice.fr/) and [INRIA](https://team.inria.fr/maasai/), France** | *March 2022 - August 2022*
+> **[I3S laboratory](https://www.i3s.unice.fr/) and [INRIA](https://team.inria.fr/maasai/research/), France** | *March 2022 - August 2022*
 > 
-> Worked on prototype-based interpretable neural networks approaches for text classification. This study lies on the framework of ANR TRACTIVE, a project that regroups researchers several disciplines for the understanding of gender representation in visual media. It involved implementing various NLP techniques and text classification models. 
+> Worked on prototype-based interpretable neural networks approaches for text classification. This study lies on the framework of ANR TRACTIVE, a project that regroups researchers several disciplines for the understanding of gender representation in visual media. It involved implementing various NLP techniques and text classification models.  
 
 > **INTERNSHIP**  
-> **[Université Côte d’Azur](https://univ-cotedazur.fr/laboratoires/laboratoire-jean-alexandre-dieudonne-ljad-1) and [INRIA](https://team.inria.fr/maasai/), France** | *April 2021 - July 2021*
+> **[Université Côte d’Azur](https://univ-cotedazur.fr/laboratoires/laboratoire-jean-alexandre-dieudonne-ljad-1) and [INRIA](https://team.inria.fr/maasai/research/), France** | *April 2021 - July 2021*
 > 
 > Worked on model agnostic interpretability methods in the ambit of images. More specifically, improving resampling process for LIME. Read the full work [here](https://m-chaves.github.io/LIME_resampling_methods.pdf).
 
