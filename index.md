@@ -1,3 +1,9 @@
+<!-- To use emojis from font awesome uncomment the next line -->
+<!-- <link rel="stylesheet" href="/assets/css/all.min.css"> -->
+<!-- Example of how to insert emoji -->
+<!-- <i class="fas fa-heart"></i> -->
+
+
 ## About me
 
 I'm a **statistician and data scientist** with 7 years of working experience in data modeling, visualization, extraction, and transformation. 
@@ -10,16 +16,12 @@ In particular, prototype-based interpretable neural networks and local interpret
 More broadly, I have been working with natural language processing and text classification models.      -->
 <!-- These projects took place as part of [I3S laboratory](https://www.i3s.unice.fr/) in a combined effort with the [MAASAI team at INRIA](https://team.inria.fr/maasai/).  -->
 
-<link rel="stylesheet" href="/assets/css/all.min.css">
-
-<i class="fas fa-heart"></i>
-
 [Download CV here](https://m-chaves.github.io/CV/cv.pdf)
 
 Key words about me:
 <kbd>Natural Language Processing</kbd> <kbd>Data Science</kbd> <kbd>Argumentation</kbd> <kbd>Fallacies</kbd><kbd>Explainable AI</kbd> <kbd>Interpretable AI</kbd> <kbd>Statistics</kbd> <kbd>Machine Learning</kbd>
 
-**e-mail**: marianach16@gmail.com or mariana.chaves.e@outlook.com
+<!-- **e-mail**: marianach16@gmail.com or mariana.chaves.e@outlook.com -->
 
 
 ## Education

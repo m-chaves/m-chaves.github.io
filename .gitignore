@@ -10,3 +10,7 @@
 *.cb
 *.cb2
 .*.lb
+_config.local.yml
+Gemfile.lock
+.sass-cache/
+_site/
