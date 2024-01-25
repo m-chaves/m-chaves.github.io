@@ -92,6 +92,10 @@ TECHNOLOGICAL INSTITUTE OF COSTA RICA 2012-2013
 <!-- - Tableau -->
 <!-- - Alteryx -->
 
+## Publications
+Goffredo, P., **Chaves, M.**, Villata, S., & Cabrio, E. (2023). Argument-based Detection and Classification of Fallacies in Political Debates. In H. Bouamor, J. Pino, & K. Bali (Eds.), Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (pp. 11101–11112). Association for Computational Linguistics. https://doi.org/10.18653/v1/2023.emnlp-main.684
+
+
 ## Languages
 
 * **English** C1
