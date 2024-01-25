@@ -14,7 +14,7 @@
 
 title: <center>Mariana Chaves</center>
 logo: img/photo4-modified.png
-description: <center><h2>About me</h2><\center> I'm a <strong>statistician and data scientist</strong> with 7 years of working experience in data modeling, visualization, extraction, and transformation. Recently, I have been researching natural language processing techniques and text models in the context of fallacy detection and classification. I also worked in explainable and interpretable AI. In particular, with prototype-based interpretable neural networks and local interpretable model-agnostic explanations (LIME). <i class="fa-regular fa-envelope"></i>
+description: <h2>About me</h2> I'm a <strong>statistician and data scientist</strong> with 7 years of working experience in data modeling, visualization, extraction, and transformation. Recently, I have been researching natural language processing techniques and text models in the context of fallacy detection and classification. I also worked in explainable and interpretable AI. In particular, with prototype-based interpretable neural networks and local interpretable model-agnostic explanations (LIME). <i class="fa-regular fa-envelope"></i>
 show_downloads: false
 # github: true
 google_analytics: 

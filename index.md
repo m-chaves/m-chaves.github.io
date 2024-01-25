@@ -10,6 +10,10 @@ In particular, prototype-based interpretable neural networks and local interpret
 More broadly, I have been working with natural language processing and text classification models.      -->
 <!-- These projects took place as part of [I3S laboratory](https://www.i3s.unice.fr/) in a combined effort with the [MAASAI team at INRIA](https://team.inria.fr/maasai/).  -->
 
+<link rel="stylesheet" href="/assets/css/all.min.css">
+
+<i class="fas fa-heart"></i>
+
 [Download CV here](https://m-chaves.github.io/CV/cv.pdf)
 
 Key words about me:
