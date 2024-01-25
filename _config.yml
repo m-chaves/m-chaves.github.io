@@ -15,7 +15,7 @@
 title: <center>Mariana Chaves</center>
 logo: img/photo4-modified.png
 # description: <h2>About me</h2> I'm a <strong>statistician and data scientist</strong> with 7 years of working experience in data modeling, visualization, extraction, and transformation. Recently, I have been researching natural language processing techniques and text models in the context of fallacy detection and classification. I also worked in explainable and interpretable AI. In particular, with prototype-based interpretable neural networks and local interpretable model-agnostic explanations (LIME). <link rel="stylesheet" href="/assets/css/all.min.css"> <br> <i class="fas fa-heart"></i>
-description: <link rel="stylesheet" href="/assets/css/all.min.css"> <br> <i class="fas fa-heart"></i> marianach16@gmail.com or mariana.chaves.e@outlook.com <br> <i class="fa-brands fa-github"></i> <a href="https://github.com/m-chaves">github.com/m-chaves</a> <i class="fa-brands fa-google-scholar"></i> <a href="https://scholar.google.com/citations?user=ZVh605cAAAAJ&hl=en">Google Scholar Profile</a>
+description: <link rel="stylesheet" href="/assets/css/all.min.css"> <br> <i class="fa-regular fa-envelope"></i> <a href="mailto:marianach16@gmail.com">marianach16@gmail.com</a> or <a href="mailto:mariana.chaves.e@outlook.com">mariana.chaves.e@outlook.com</a> <br> <i class="fa-brands fa-github"></i> <a href="https://github.com/m-chaves">github.com/m-chaves</a> <br> <i class="fa-brands fa-google-scholar"></i> <a href="https://scholar.google.com/citations?user=ZVh605cAAAAJ&hl=en">Google Scholar Profile</a>
 show_downloads: false
 google_analytics: 
 theme: jekyll-theme-minimal
