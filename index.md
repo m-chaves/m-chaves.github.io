@@ -13,7 +13,7 @@ More broadly, I have been working with natural language processing and text clas
 [Download CV here](https://m-chaves.github.io/CV/cv.pdf)
 
 Key words about me:
-<kbd>Natural Language Processing</kbd> <kbd>Data Science</kbd> <kbd>Explainable AI</kbd> <kbd>Interpretable AI</kbd> <kbd>Statistics</kbd> <kbd>Machine Learning</kbd> <kbd>Argumentation</kbd> <kbd>Fallacies</kbd>
+<kbd>Natural Language Processing</kbd> <kbd>Data Science</kbd> <kbd>Argumentation</kbd> <kbd>Fallacies</kbd><kbd>Explainable AI</kbd> <kbd>Interpretable AI</kbd> <kbd>Statistics</kbd> <kbd>Machine Learning</kbd>
 
 **e-mail**: marianach16@gmail.com or mariana.chaves.e@outlook.com
 
@@ -74,11 +74,11 @@ Key words about me:
 **Highest GPA among Statistics majors for three consecutive years : 2013, 2014, 2015.**
 UNIVERSITY OF COSTA RICA
 
-**Honorable Mention: Ninth highest score on Admission Exam 2012.**
-UNIVERSITY OF COSTA RICA
+**Honorable Mention: 9th place (out of ≈33 000) on National Admission Exam.**
+UNIVERSITY OF COSTA RICA 2012-2013
 
-**Honorable Mention: Highest score on Admission Exam 2012.**
-TECHNOLOGICAL INSTITUTE OF COSTA RICA
+**Honorable Mention: 1st place (out of ≈20 000) on national Admission Exam.**
+TECHNOLOGICAL INSTITUTE OF COSTA RICA 2012-2013
 
 ## Main skills
 
