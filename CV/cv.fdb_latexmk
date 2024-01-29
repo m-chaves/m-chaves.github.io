@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1706479331 "/user/machaves/home/Documents/m-chaves.github.io/CV/cv.tex" "cv.pdf" "cv" 1706479332 0
+["pdflatex"] 1706537167 "/user/machaves/home/Documents/m-chaves.github.io/CV/cv.tex" "cv.pdf" "cv" 1706537169 0
   "/user/machaves/home/.texlive2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1683711538 2531640 8516f7c451c830f60c28a62964d500f5 ""
-  "/user/machaves/home/Documents/m-chaves.github.io/CV/cv.tex" 1706479331 11460 d1c2ae2f0bcf792869ac48317c37145f ""
+  "/user/machaves/home/Documents/m-chaves.github.io/CV/cv.tex" 1706537167 11481 f4723927fb687042b84a3d6ffa04dbc7 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1585083055 3082 40ae2331673498e66c30044eac8aab6f ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1585083055 3040 a74211a8f4718d9997628e5616b4ef48 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1585083055 2908 bac006be0510cadf4ac6d59a12fa262a ""
@@ -220,9 +220,9 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1685109830 40136 b05acc85e8425979e52682d98a2bcacf ""
   "/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1687529019 5135087 6ecb655a4432cd62d1e29f403acc8a27 ""
   "altacv.cls" 1704568296 14479 c754c1c66cc28098c5179b7fa4e07fa2 ""
-  "cv.aux" 1706479332 686 e6bf9f11827e1eae1d85e75b99e0a183 "pdflatex"
-  "cv.out" 1706479332 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "pdfa.xmpi" 1706479332 5042 bd5976fe4d1e3ec1bc56384f4ccce366 "pdflatex"
+  "cv.aux" 1706537168 686 e6bf9f11827e1eae1d85e75b99e0a183 "pdflatex"
+  "cv.out" 1706537168 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "pdfa.xmpi" 1706537168 5042 86bc36f2ece9cc4ac5af47b7348d364b "pdflatex"
   (generated)
   "cv.aux"
   "cv.log"
