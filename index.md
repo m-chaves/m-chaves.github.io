@@ -69,7 +69,7 @@ Key words about me:
 
 ### Industry
 
-> **JUNIOR DATA SCIENTIST**
+> **DATA SCIENTIST**
 > **Walmart Supply Chain Analytics USA, Costa Rica** | *October 2018 - July 2020*
 >
 > Directed and developed data analysis projects to provide agile solutions to business partners. Main projects included an anomaly detection system, statistical sampling design, and consumption layer design.
@@ -104,11 +104,6 @@ UNIVERSITÉ CÔTE D’AZUR
 UNIVERSITY OF COSTA RICA
 
 
-## Main skills
-
-<kbd>python</kbd> <kbd>R</kbd> <kbd>LaTeX</kbd> <kbd>SQL</kbd>
-
-
 ## Publications
 
 **Chaves, M.**, Cabrio, E., & Villata, S. (2025, March). FALCON: A multi-label graph-based dataset for fallacy classification in the COVID-19 infodemic. SAC ’25 - ACM/SIGAPP Symposium on Applied Computing. https://doi.org/10.1145/3672608.3707913
@@ -122,3 +117,7 @@ Goffredo, P., **Chaves, M.**, Villata, S., & Cabrio, E. (2023). Argument-based D
 * **Spanish** C2 - Native
 * **Portuguese** B2/C1
 * **French** B2
+
+## Main skills
+
+<kbd>python</kbd> <kbd>R</kbd> <kbd>LaTeX</kbd> <kbd>SQL</kbd>
