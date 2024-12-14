@@ -33,13 +33,11 @@ Key words about me:
 
 > **MSc DATA SCIENCE AND ARTIFICIAL INTELLIGENCE**
 > **Université Côte d’Azur, France** | 2020 - 2022
->
 > Honors Graduate (Mention Très Bien)
 
 
 > **BACHELOR IN STATISTICS**
 > **University of Costa Rica, Costa Rica** | 2013 - 2017
->
 > Honors Graduate
 
 
@@ -84,24 +82,24 @@ Key words about me:
 >
 > Developed a money laundering detection system based on bayesian decision trees models applied on banking transactional data.
 
-## Achievements
+## Awards
 
-**Highest GPA among Statistics majors for three consecutive years : 2013, 2014, 2015.**
-UNIVERSITY OF COSTA RICA
+> **Highest GPA among Statistics majors for three consecutive years : 2013, 2014, 2015.**
+> UNIVERSITY OF COSTA RICA
 
-**Honorable Mention: 9th place (out of ≈33 000) on National Admission Exam.**
-UNIVERSITY OF COSTA RICA 2012-2013
+> **Honorable Mention: 9th place (out of ≈33 000) on National Admission Exam.**
+> UNIVERSITY OF COSTA RICA 2012-2013
 
-**Honorable Mention: 1st place (out of ≈20 000) on national Admission Exam.**
-TECHNOLOGICAL INSTITUTE OF COSTA RICA 2012-2013
+> **Honorable Mention: 1st place (out of ≈20 000) on national Admission Exam.**
+> TECHNOLOGICAL INSTITUTE OF COSTA RICA 2012-2013
 
 ## Scholarships
 
-**IDEX Scholarship of Academic Excellence 2020-2021**
-UNIVERSITÉ CÔTE D’AZUR
+> **IDEX Scholarship of Academic Excellence 2020-2021**
+> UNIVERSITÉ CÔTE D’AZUR
 
-**Academic Excellence Scholarship 2013-2017**
-UNIVERSITY OF COSTA RICA
+> **Academic Excellence Scholarship 2013-2017**
+> UNIVERSITY OF COSTA RICA
 
 
 ## Publications
