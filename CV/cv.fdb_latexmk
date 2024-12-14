@@ -1,7 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1706537167 "/user/machaves/home/Documents/m-chaves.github.io/CV/cv.tex" "cv.pdf" "cv" 1706537169 0
+["pdflatex"] 1734175922 "/user/machaves/home/Documents/m-chaves.github.io/CV/cv.tex" "cv.pdf" "cv" 1734175923 0
   "/user/machaves/home/.texlive2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1683711538 2531640 8516f7c451c830f60c28a62964d500f5 ""
-  "/user/machaves/home/Documents/m-chaves.github.io/CV/cv.tex" 1706537167 11481 f4723927fb687042b84a3d6ffa04dbc7 ""
+  "/user/machaves/home/Documents/m-chaves.github.io/CV/cv.tex" 1734175921 12554 20f5815156247a8c52e15cd947efced8 ""
+  "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1585083055 2911 7adff171bd8c0a41152be2ab1520c87f ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1585083055 3082 40ae2331673498e66c30044eac8aab6f ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1585083055 3040 a74211a8f4718d9997628e5616b4ef48 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1585083055 2908 bac006be0510cadf4ac6d59a12fa262a ""
@@ -9,6 +10,7 @@
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm" 1136768653 3584 adb004a0c8e7c46ee66cad73671f37b4 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5brands0.tfm" 1585083055 1380 5b94369cdff79f65764411f8f1ed837a ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free0solid.tfm" 1585083055 1328 1f854a6a388146425a101ff36de3b8e9 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm" 1585083055 1316 588c5a127188539bbde9e4e2c0155f55 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free2solid.tfm" 1585083055 1340 d4b47c80f620e0e8e8e77ec2f41bb1d9 ""
@@ -19,6 +21,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/typoland/lato/Lato-Regular-T1-TLF--base.tfm" 1508701834 1740 a07ca8bf01c702c857120dc5d0acad8b ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/typoland/lato/Lato-Regular-T1-TLF.tfm" 1561498483 87408 f973e06002751c62a44cc0a6b9479d71 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb" 1585083055 196112 22d4cc8f6f8310728898a892a4c3714a ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb" 1585083055 291751 fcc2856ee26c330f2874fd68d1b1f4a5 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb" 1561498483 440414 ec7bef9aca5d79a80bbd76185c8c7134 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pfb" 1561498483 472156 f4bc4b13f4231ad168df6d155c6be129 ""
@@ -141,6 +144,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5-generic-helper.sty" 1585083055 1796 001154c154a0a0f6b5ae59d4fc9c41af ""
   "/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.def" 1585083055 106332 3e6df4defc3c8f1f479d7341a960913d ""
   "/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty" 1585083055 7431 8a71c2115ffa795004f55c2bb423c0ce ""
+  "/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd" 1585083055 1206 8f81a7d2b6a4526aca11ae55f54c8fb2 ""
   "/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd" 1585083055 980 b7ee209fe36350e166f6132ac4eafeeb ""
   "/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd" 1585083055 980 d5f4ef95d9f523d22765a643935d9b51 ""
   "/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd" 1585083055 980 e00b6e593c47da92afe0ee2ba68ee123 ""
@@ -220,9 +224,9 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1685109830 40136 b05acc85e8425979e52682d98a2bcacf ""
   "/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1687529019 5135087 6ecb655a4432cd62d1e29f403acc8a27 ""
   "altacv.cls" 1704568296 14479 c754c1c66cc28098c5179b7fa4e07fa2 ""
-  "cv.aux" 1706537168 686 e6bf9f11827e1eae1d85e75b99e0a183 "pdflatex"
-  "cv.out" 1706537168 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "pdfa.xmpi" 1706537168 5042 86bc36f2ece9cc4ac5af47b7348d364b "pdflatex"
+  "cv.aux" 1734175922 686 e6bf9f11827e1eae1d85e75b99e0a183 "pdflatex"
+  "cv.out" 1734175922 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "pdfa.xmpi" 1734175922 5042 cda8f8ac27bfa96f5f482f552ac5aa1b "pdflatex"
   (generated)
   "cv.aux"
   "cv.log"

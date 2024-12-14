@@ -81,7 +81,7 @@
 
 \begin{document}
 \name{Mariana Chaves}
-\tagline{Statistician and data scientist}
+\tagline{Data scientist and statistician}
 % Cropped to square from https://en.wikipedia.org/wiki/Marissa_Mayer#/media/File:Marissa_Mayer_May_2014_(cropped).jpg, CC-BY 2.0
 %% You can add multiple photos on the left or right
 % \photoR{2.5cm}{mmayer-wikipedia-cc-by-2_0}
@@ -91,13 +91,13 @@
   % You can add your own with \printinfo{symbol}{detail}
   \email{marianach16@gmail.com}
   % \phone{+33 674280830 or +506 64628057}
-  \phone{+33 674280830}
+  % \phone{+33 674280830}
   % \mailaddress{Address, Street, 00000 County}
-  \location{Nice, France}
-  \printinfo{\faBirthdayCake}{Costa Rica 16/10/1995}
   \homepage{m-chaves.github.io}
+  \github{m-chaves} % I'm just making this up though.
+  \location{Nice, France}
+  \printinfo{\faBirthdayCake}{Costa Rica 1995}
   % \linkedin{marissamayer}
-%   \github{github.com/mmayer} % I'm just making this up though.
 %   \orcid{0000-0000-0000-0000} % Obviously making this up too.
   %% You can add your own arbitrary detail with
   %% \printinfo{symbol}{detail}[optional hyperlink prefix]
@@ -122,9 +122,15 @@
 \makecvheader
 
 \cvsection{About me}
+\begin{justify}
+\vspace{-1em}
+I am a research engineer at CNRS and a member of the WIMMICS team at Inria, where I work on natural language processing (NLP) and argument mining applied to the context of political debates, press articles, and social media.
+In my 7 years of working experience, I have developed diverse projects involving statistics, data science, machine learning, and artificial intelligence.
+This includes applications in social media analysis, gender representation in media, explainable AI, supply chain logistics, and money laundering detection.
+\end{justify}
 
-I'm a \textbf{statistician and data scientist} with 7 years of working experience in data modeling, visualization, extraction, and transformation. 
-Recently, I have been researching natural language processing techniques and text models in the context of fallacy detection and classification. I also worked in explainable and interpretable AI. In particular, with prototype-based interpretable neural networks and local interpretable model-agnostic explanations (LIME). 
+% I'm a \textbf{statistician and data scientist} with 7 years of working experience in data modeling, visualization, extraction, and transformation.
+% Recently, I have been researching natural language processing techniques and text models in the context of fallacy detection and classification. I also worked in explainable and interpretable AI. In particular, with prototype-based interpretable neural networks and local interpretable model-agnostic explanations (LIME).
 
 %% Depending on your tastes, you may want to make fonts of itemize environments slightly smaller
 \AtBeginEnvironment{itemize}{\small}
@@ -139,36 +145,55 @@ Recently, I have been researching natural language processing techniques and tex
 
 \cvsection{Work experience}
 
-\cvevent{Research Engineer}{Inria, France}{2023 - Present}{}{Research in natural language processing (NLP) focused on models and techniques that utilize argumentation and other text data derived features to identify fallacious arguments in social media and political debate contexts.}
-
-\divider
+\cvevent{Research Engineer}{CNRS and Inria, France}{2023 - Present}{}{
+\begin{justify}
+  \vspace{-1em}
+  Research in natural language processing (NLP) focused on fallacy detection and classification via argumentation, especially in the context of political debates and social media.
+  Currently analysing press coverage of the war in Ukraine.
+\end{justify}
+}
 
 \cvevent{Research internship}{I3S and Inria, France}{2022}{}
 {
-Research on prototype-based interpretable neural networks, other text classification models and NLP techniques applied to the understanding of gender representation in visual media. 
-% Research on prototype-based interpretable neural networks approaches for text classification.  
-% This study lied on the framework of ANR TRACTIVE, a project that regroups researchers several disciplines for the understanding of gender representation in visual media. 
-% It involved implementing various NLP techniques and text classification models.
+\begin{justify}
+  \vspace{-1em}
+  Research on prototype-based interpretable neural networks, text classification models, and NLP techniques applied to the understanding of gender representation in visual media.
+  % Research on prototype-based interpretable neural networks approaches for text classification.
+  % This study lied on the framework of ANR TRACTIVE, a project that regroups researchers several disciplines for the understanding of gender representation in visual media.
+  % It involved implementing various NLP techniques and text classification models.
+\end{justify}
 }
 
-\divider
+\cvevent{Research internship}{Université Côte d'Azur and Inria, France}{2021}{}{
+\begin{justify}
+  \vspace{-1em}
+  Research on model agnostic interpretability methods in the ambit of images. More specifically, improving resampling process for local interpretable model-agnostic explanations (LIME).
+\end{justify}
+}
 
-\cvevent{Research internship}{Inria and Université Côte d'Azur, France}{2021}{}{Research on model agnostic interpretability methods in the ambit of images. More specifically, improving resampling process for local interpretable model-agnostic explanations (LIME).}
+\cvevent{Data scientist}{Walmart Supply Chain Analytics USA, Costa Rica}{2017 - 2020}{}{
+\begin{justify}
+  \vspace{-1em}
+  Directed and developed data analysis projects.
+  % to provide agile solutions to business partners.
+  The main initiatives included anomaly detection systems, statistical sampling design, statistical process control techniques, and KPI development.
+\end{justify}
+}
 
-\divider
+\cvevent{Data analyst}{BAC Credomatic, Costa Rica}{2016}{}{
+\begin{justify}
+  \vspace{-1em}
+  Developed a money laundering detection system based on bayesian decision trees models applied on banking transactional data.
+  % Regional Compliance Management
+\end{justify}
+}
 
-\cvevent{Data scientist}{Walmart Supply Chain Analytics USA}{2018 - 2020}{}{Directed and developed data analysis projects. 
-% to provide agile solutions to business partners. 
-Main projects included an anomaly detection system, statistical sampling design, and consumption layer design.}
+\cvsection{Languages}
 
-\divider
-
-\cvevent{Data analyst}{Walmart Supply Chain Analytics USA}{2017 - 2018}{}{Data extraction, transformation, and visualization. Main projects included statistical process control techniques and KPI development.}
-
-\divider
-
-\cvevent{Data analyst}{BAC Credomatic Regional Compliance Management, Costa Rica}{2016}{}{Developed money laundering detection models for five Central American countries.}
-
+\cvskill{Spanish - C2 (Native)}{3}
+\cvskill{English - C1 (TOEFL iBT)}{2.5}
+\cvskill{Portuguese - B2/C1}{2.5}
+\cvskill{French - B2}{2} %% supports X.5 values.
 
 % \cvsection{A Day of My Life}
 
@@ -220,11 +245,29 @@ Main projects included an anomaly detection system, statistical sampling design,
 
 \cvsection{Education}
 
-\cvevent{MSc Data science and artificial intelligence}{Université Côte d’Azur (UniCA), France}{2020 - 2022}{}{\faAward Honors Graduate (\emph{Mention Très Bien})}
+\cvevent{MSc Data science and artificial intelligence}{Université Côte d’Azur (UniCA), France}{2020 - 2022}{}{\faAward Honors Graduate (\emph{Mention Très Bien}).}
 
-\divider 
+\divider
 
-\cvevent{Bachelor in Statistics}{University of Costa Rica (UCR), Costa Rica}{2013 - 2017}{}{\faAward Honors Graduate}
+\cvevent{Bachelor in Statistics}{University of Costa Rica (UCR), Costa Rica}{2013 - 2017}{}{\faAward Honors Graduate.}
+
+\cvsection{Publications}
+
+\begin{justify}
+  \vspace{-1em}
+  \textbf{Mariana Chaves}, Elena Cabrio, Serena Villata. FALCON: A multi-label graph-based dataset for fallacy classification in the COVID-19 infodemic. SAC 2025. \href{https://hal.science/hal-04834405v1}{hal-04834405}
+\end{justify}
+
+\vspace{1mm}
+
+\begin{justify}
+  \vspace{-1em}
+  Pierpaolo Goffredo, \textbf{Mariana Chaves}, Serena Villata, and Elena Cabrio. Argument-based Detection and Classification of Fallacies in Political Debates. EMNLP 2023. \href{https://inria.hal.science/hal-04260221}{hal-04260221}
+\end{justify}
+
+
+% \nocite{*}
+% \printbibliography[heading=pubtype,title={\printinfo{\faUsers}{Conference Proceedings}},type=inproceedings]
 
 \cvsection{Honourable mentions}
 
@@ -245,23 +288,8 @@ Main projects included an anomaly detection system, statistical sampling design,
 \cvtag{Python}
 \cvtag{R}
 \cvtag{LaTeX}
+\cvtag{Git}
 \cvtag{SQL}
-
-\cvsection{Languages}
-
-\cvskill{English - C1}{2.5}
-\cvskill{Spanish - C2 (Native)}{3}
-\cvskill{Portuguese - B2/C1}{2.5}
-\cvskill{French - B2}{2} %% supports X.5 values.
-
-
-\cvsection{Publication}
-
-% Temporal 
-Pierpaolo Goffredo, \textbf{Mariana Chaves}, Serena Villata, and Elena Cabrio. 2023. Argument-based Detection and Classification of Fallacies in Political Debates. EMNLP.
-
-% \nocite{*}
-% \printbibliography[heading=pubtype,title={\printinfo{\faUsers}{Conference Proceedings}},type=inproceedings]
 
 
 \newpage
