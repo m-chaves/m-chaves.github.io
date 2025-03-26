@@ -119,3 +119,10 @@ Goffredo, P., **Chaves, M.**, Villata, S., & Cabrio, E. (2023). Argument-based D
 ## Main skills
 
 <kbd>python</kbd> <kbd>R</kbd> <kbd>LaTeX</kbd> <kbd>SQL</kbd>
+
+## Conferences Reviewed
+
+List of conferences where I have served as a reviewer:
+
+- **SAC 2025** (ACM Symposium on Applied Computing)
+- **LREC-COLING 2024** (Joint International Conference on Computational Linguistics, Language Resources and Evaluation)
