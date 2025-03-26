@@ -24,7 +24,7 @@ More broadly, I have been working with natural language processing and text clas
 <!-- [Download CV here](https://m-chaves.github.io/CV/cv.pdf) -->
 
 Key words about me:
-<kbd>Natural Language Processing (NLP)</kbd> <kbd>Data Science</kbd> <kbd>Argument mining</kbd> <kbd>Fallacious arguments</kbd><kbd>Explainable AI</kbd> <kbd>Interpretable AI</kbd> <kbd>Statistics</kbd> <kbd>Machine Learning</kbd>
+<kbd>Natural Language Processing (NLP)</kbd> <kbd>Argument Mining</kbd> <kbd>Computational Linguistics</kbd> <kbd>(Large) Language Models</kbd> <kbd>Data Science</kbd> <kbd>Fallacious arguments</kbd> <kbd>Corpora Creation</kbd> <kbd>Explainable AI</kbd> <kbd>Statistics</kbd> <kbd>Machine Learning</kbd>
 
 <!-- **e-mail**: marianach16@gmail.com or mariana.chaves.e@outlook.com -->
 
