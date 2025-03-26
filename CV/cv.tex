@@ -21,7 +21,7 @@
 %% See http://texdoc.net/pkg/fontawesome5 for full list of symbols.
 
 % Change the page layout if you need to
-\geometry{left=1.25cm,right=1.25cm,top=1.5cm,bottom=1.5cm,columnsep=1.2cm}
+\geometry{left=1.25cm,right=1.25cm,top=1.5cm,bottom=1.5cm,columnsep=0.7cm}
 
 % The paracol package lets you typeset columns of text in parallel
 \usepackage{paracol}
@@ -81,7 +81,8 @@
 
 \begin{document}
 \name{Mariana Chaves}
-\tagline{Data scientist and statistician}
+\tagline{NLP Researcher | Data Scientist | Statistician}
+% \tagline{}
 % Cropped to square from https://en.wikipedia.org/wiki/Marissa_Mayer#/media/File:Marissa_Mayer_May_2014_(cropped).jpg, CC-BY 2.0
 %% You can add multiple photos on the left or right
 % \photoR{2.5cm}{mmayer-wikipedia-cc-by-2_0}
@@ -124,7 +125,7 @@
 \cvsection{About me}
 \begin{justify}
 \vspace{-1em}
-I am a research engineer at CNRS and a member of the WIMMICS team at Inria, where I work on natural language processing (NLP) and argument mining applied to the context of political debates, press articles, and social media.
+I am a research engineer at \href{https://www.cnrs.fr/en}{CNRS} and a member of the \href{https://team.inria.fr/wimmics/}{WIMMICS} team at \href{https://inria.fr/en}{Inria}, where I work on natural language processing (NLP) and argument mining applied to the context of political debates, press articles, and social media.
 In my 7 years of working experience, I have developed diverse projects involving statistics, data science, machine learning, and artificial intelligence.
 This includes applications in social media analysis, gender representation in media, explainable AI, supply chain logistics, and money laundering detection.
 \end{justify}
@@ -145,33 +146,38 @@ This includes applications in social media analysis, gender representation in me
 
 \cvsection{Work experience}
 
+% \cvevent{Research Engineer}{CNRS and Inria, France}{Apr 2023 - Present}{}{
 \cvevent{Research Engineer}{CNRS and Inria, France}{2023 - Present}{}{
 \begin{justify}
   \vspace{-1em}
-  Research in natural language processing (NLP) focused on fallacy detection and classification via argumentation, especially in the context of political debates and social media.
-  Currently analysing press coverage of the war in Ukraine.
+  Conducted research in NLP and computational argumentation, focused on fallacy detection and argument mining within political debates and social media contexts.
+  Key contributions include the creation and annotation of corpora, manipulation of transformer-based models, and developing graph-based representations of argument structures.
 \end{justify}
 }
 
+% \cvevent{Research internship}{I3S and Inria, France}{Mar - Aug 2022}{}
 \cvevent{Research internship}{I3S and Inria, France}{2022}{}
 {
 \begin{justify}
   \vspace{-1em}
-  Research on prototype-based interpretable neural networks, text classification models, and NLP techniques applied to the understanding of gender representation in visual media.
+  Explored prototype-based interpretable neural networks, text classification models, and NLP techniques to analyze gender representation in visual media.
+  % Research on prototype-based interpretable neural networks, text classification models, and NLP techniques applied to the understanding of gender representation in visual media.
   % Research on prototype-based interpretable neural networks approaches for text classification.
   % This study lied on the framework of ANR TRACTIVE, a project that regroups researchers several disciplines for the understanding of gender representation in visual media.
   % It involved implementing various NLP techniques and text classification models.
 \end{justify}
 }
 
+% \cvevent{Research internship}{Université Côte d'Azur and Inria, France}{Apr - Jul 2021}{}{
 \cvevent{Research internship}{Université Côte d'Azur and Inria, France}{2021}{}{
 \begin{justify}
   \vspace{-1em}
-  Research on model agnostic interpretability methods in the ambit of images. More specifically, improving resampling process for local interpretable model-agnostic explanations (LIME).
+  Researched model-agnostic interpretability methods for image classification models, with a focus on enhancing the resampling process for Local Interpretable Model-agnostic Explanations (LIME).
 \end{justify}
 }
 
-\cvevent{Data scientist}{Walmart Supply Chain Analytics USA, Costa Rica}{2017 - 2020}{}{
+% \cvevent{Data scientist}{Walmart Supply Chain Analytics, Costa Rica}{Jan 2017 - Jul 2020}{}{
+\cvevent{Data scientist}{Walmart Supply Chain Analytics, Costa Rica}{2017 - 2020}{}{
 \begin{justify}
   \vspace{-1em}
   Directed and developed data analysis projects.
@@ -180,6 +186,7 @@ This includes applications in social media analysis, gender representation in me
 \end{justify}
 }
 
+% \cvevent{Data analyst}{BAC Credomatic, Costa Rica}{Mar - Dec 2016}{}{
 \cvevent{Data analyst}{BAC Credomatic, Costa Rica}{2016}{}{
 \begin{justify}
   \vspace{-1em}
@@ -191,7 +198,7 @@ This includes applications in social media analysis, gender representation in me
 \cvsection{Languages}
 
 \cvskill{Spanish - C2 (Native)}{3}
-\cvskill{English - C1 (TOEFL iBT)}{2.5}
+\cvskill{English - C1 (TOEFL iBT 109/120)}{2.5}
 \cvskill{Portuguese - B2/C1}{2.5}
 \cvskill{French - B2}{2} %% supports X.5 values.
 
@@ -243,31 +250,17 @@ This includes applications in social media analysis, gender representation in me
 %% page if the content is too long.
 \switchcolumn
 
-\cvsection{Education}
-
-\cvevent{MSc Data science and artificial intelligence}{Université Côte d’Azur (UniCA), France}{2020 - 2022}{}{\faAward Honors Graduate (\emph{Mention Très Bien}).}
-
-\divider
-
-\cvevent{Bachelor in Statistics}{University of Costa Rica (UCR), Costa Rica}{2013 - 2017}{}{\faAward Honors Graduate.}
-
-\cvsection{Publications}
-
-\begin{justify}
-  \vspace{-1em}
-  \textbf{Mariana Chaves}, Elena Cabrio, Serena Villata. FALCON: A multi-label graph-based dataset for fallacy classification in the COVID-19 infodemic. SAC 2025. \href{https://hal.science/hal-04834405v1}{hal-04834405}
-\end{justify}
-
-\vspace{1mm}
-
-\begin{justify}
-  \vspace{-1em}
-  Pierpaolo Goffredo, \textbf{Mariana Chaves}, Serena Villata, and Elena Cabrio. Argument-based Detection and Classification of Fallacies in Political Debates. EMNLP 2023. \href{https://inria.hal.science/hal-04260221}{hal-04260221}
-\end{justify}
-
-
 % \nocite{*}
 % \printbibliography[heading=pubtype,title={\printinfo{\faUsers}{Conference Proceedings}},type=inproceedings]
+
+\cvsection{Education}
+
+\cvevent{MSc Data Science and Artificial Intelligence}{Université Côte d’Azur (UniCA), France}{2020 - 2022}{}{\faAward Honors Graduate (\emph{Mention Très Bien}).}
+
+% \divider
+\vspace{1em}
+
+\cvevent{Bachelor in Statistics}{University of Costa Rica (UCR), Costa Rica}{2013 - 2017}{}{\faAward Honors Graduate.}
 
 \cvsection{Honourable mentions}
 
@@ -291,16 +284,30 @@ This includes applications in social media analysis, gender representation in me
 \cvtag{Git}
 \cvtag{SQL}
 
+\cvsection{Publications}
 
-\newpage
+\begin{justify}
+  \vspace{-1em}
+  \textbf{Mariana Chaves}, Elena Cabrio, Serena Villata. FALCON: A multi-label graph-based dataset for fallacy classification in the COVID-19 infodemic. SAC 2025. \href{https://hal.science/hal-04834405v1}{hal-04834405}
+\end{justify}
+
+\vspace{1mm}
+
+\begin{justify}
+  \vspace{-1em}
+  Pierpaolo Goffredo, \textbf{Mariana Chaves}, Serena Villata, and Elena Cabrio. Argument-based Detection and Classification of Fallacies in Political Debates. EMNLP 2023. \href{https://inria.hal.science/hal-04260221}{hal-04260221}
+\end{justify}
+
+% \newpage
 
 % \cvsection{Referees}
 
-% % \cvref{name}{email}{mailing address}
-% \cvref{Prof.\ Alpha Beta}{Institute}{a.beta@university.edu}
-% {Address Line 1\\Address line 2}
+% \cvref{name}{email}{mailing address}
+% \cvref{Prof.\ Serena Villata}{serena.villata@cnrs.fr}{CNRS, Université Côte d'Azur, Inria}
 
-% \divider
+% \cvref{Prof.\ Lucile Sassatelli}{lucile.sassatelli@univ-cotedazur.fr}{CNRS, Université Côte d'Azur, I3S}
+
+% \cvref{Prof.\ Damien Garreau}{damien.garreau@uni-wuerzburg.de}{Universität Würzburg}
 
 % \cvref{Prof.\ Gamma Delta}{Institute}{g.delta@university.edu}
 % {Address Line 1\\Address line 2}

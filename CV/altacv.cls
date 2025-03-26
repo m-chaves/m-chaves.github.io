@@ -278,6 +278,8 @@
   {\color{subheading}\cvsubsectionfont{#1}\par}\medskip
 }
 
+% Original cvevent command
+
 % v1.1.4: fixes inconsistent font size
 \newcommand{\cvevent}[4]{%
   {\large\color{emphasis}#1\par}
@@ -286,6 +288,29 @@
   \textbf{\color{accent}#2}\par
   \smallskip}
   \ifstrequal{#3}{}{}{{\small\makebox[0.5\linewidth][l]{\faCalendar~#3}}}%
+  \ifstrequal{#4}{}{}{{\small\makebox[0.5\linewidth][l]{\faMapMarker~#4}}}\par
+  \medskip\normalsize
+}
+
+% Modified cvevent command
+% It makes place and date to be the same line
+% Removes the calendar icon
+\newcommand{\cveventtwo}[4]{%
+  {\large\color{emphasis}#1\par}
+  \smallskip\normalsize
+  \ifstrequal{#2}{}{}{%
+    \noindent% Ensure no indentation
+    \begin{minipage}[t]{0.7\linewidth}% Left-aligned content
+      \textbf{\color{accent}#2}%
+    \end{minipage}%
+    \hfill% Fill the space between left and right
+    \begin{minipage}[t]{0.3\linewidth}% Right-aligned content
+      \raggedleft% Align content to the right
+      \ifstrequal{#3}{}{}{\small~#3}%
+      % \ifstrequal{#3}{}{}{\small\faCalendar~#3}%
+    \end{minipage}%
+    \par
+  }
   \ifstrequal{#4}{}{}{{\small\makebox[0.5\linewidth][l]{\faMapMarker~#4}}}\par
   \medskip\normalsize
 }
@@ -375,9 +400,11 @@
 \newcommand{\cvref}[3]{%
   \smallskip
   \textcolor{emphasis}{\textbf{#1}}\par
+  #3
   \begin{description}[font=\color{accent},style=multiline,leftmargin=1.35em,align=left]
-  \item[\small\normalfont\emailsymbol] #2
-  \item[\small\normalfont\mailaddresssymbol] #3
+  \ifstrequal{#2}{}{}{\item[\small\normalfont\emailsymbol] #2}%
+  % \item[\small\normalfont\emailsymbol] #2
+  % \item[\small\normalfont\mailaddresssymbol] #3
   \end{description}
 %   \medskip
 }
