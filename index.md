@@ -29,18 +29,6 @@ Key words about me:
 <!-- **e-mail**: marianach16@gmail.com or mariana.chaves.e@outlook.com -->
 
 
-## Education
-
-> **MSc DATA SCIENCE AND ARTIFICIAL INTELLIGENCE**
-> **Université Côte d’Azur, France** | 2020 - 2022
-> Honors Graduate (Mention Très Bien)
-
-
-> **BACHELOR IN STATISTICS**
-> **University of Costa Rica, Costa Rica** | 2013 - 2017
-> Honors Graduate
-
-
 ## Work experience
 
 ### Research
@@ -81,6 +69,17 @@ Key words about me:
 > **BAC Credomatic Regional Compliance Management, Costa Rica** | *April 2016 - December 2016*
 >
 > Developed a money laundering detection system based on bayesian decision trees models applied on banking transactional data.
+
+## Education
+
+> **MSc DATA SCIENCE AND ARTIFICIAL INTELLIGENCE**
+> **Université Côte d’Azur, France** | 2020 - 2022
+> Honors Graduate (Mention Très Bien)
+
+
+> **BACHELOR IN STATISTICS**
+> **University of Costa Rica, Costa Rica** | 2013 - 2017
+> Honors Graduate
 
 ## Awards
 
