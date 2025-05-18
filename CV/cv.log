@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/CVE-2023-32700 patched) (preloaded format=pdflatex 2023.5.10)  18 MAY 2025 11:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/CVE-2023-32700 patched) (preloaded format=pdflatex 2023.5.10)  18 MAY 2025 11:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -730,69 +730,69 @@ LaTeX Info: Redefining \selectfont on input line 82.
 \c@mv@tabular=\count318
 \c@mv@boldtabular=\count319
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 123.
+(Font)              scaled to size 24.88pt on input line 124.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 123.
+(Font)              scaled to size 24.88pt on input line 124.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 123.
+(Font)              scaled to size 12.0pt on input line 124.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 123.
+(Font)              scaled to size 12.0pt on input line 124.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 123.
+(Font)              scaled to size 8.0pt on input line 124.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 123.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 123.
+(Font)              scaled to size 8.0pt on input line 124.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 124.
  (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 123.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 124.
  (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 123.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 124.
  (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <8> not available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 123.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 123.
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 124.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 124.
  (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)<<ot1.cmap>><<oml.cmap>><<oms.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 123.
+(Font)              <7> on input line 124.
 <<omx.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 123.
+(Font)              <5> on input line 124.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 125.
+(Font)              scaled to size 14.4pt on input line 126.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 125.
+(Font)              scaled to size 14.4pt on input line 126.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 150.
+(Font)              scaled to size 10.0pt on input line 151.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 150.
+(Font)              scaled to size 9.0pt on input line 151.
 
-Overfull \hbox (0.1146pt too wide) in paragraph at lines 153--155
+Overfull \hbox (0.1146pt too wide) in paragraph at lines 154--156
 []\T1/lato-TLF/m/n/10 Conducted re-search in NLP and com-pu-ta-tional ar-gu-men-ta-tion, fo-cused
  []
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 258.
+(Font)              scaled to size 10.0pt on input line 259.
 
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 267--267
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 268--268
 []|[]| 
  []
 
 
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 272--272
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 273--273
 []|[]| 
  []
 
 
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 277--277
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 278--278
 []|[]| 
  []
 
 
-Overfull \hbox (4.63396pt too wide) in paragraph at lines 291--292
+Overfull \hbox (4.63396pt too wide) in paragraph at lines 292--293
 \T1/lato-TLF/m/n/10 fal-lacy clas-si-fi-ca-tion in the COVID-19 in-fo-demic.
  []
 
 
-Overfull \hbox (5.4683pt too wide) in paragraph at lines 298--299
+Overfull \hbox (5.4683pt too wide) in paragraph at lines 299--300
 []\T1/lato-TLF/m/n/10 Pierpaolo Gof-fredo, \T1/lato-TLF/b/n/10 Mar-i-ana Chaves\T1/lato-TLF/m/n/10 , Ser-ena Vil-
  []
 
@@ -805,13 +805,13 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 Here is how much of TeX's memory you used:
  31611 strings out of 479957
  604388 string characters out of 5879163
- 890815 words of memory out of 6000000
+ 890891 words of memory out of 6000000
  48484 multiletter control sequences out of 15000+600000
  672983 words of font info for 57 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  125i,10n,121p,576b,2366s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cv.pdf (1 page, 154483 bytes).
+Output written on cv.pdf (1 page, 149375 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
