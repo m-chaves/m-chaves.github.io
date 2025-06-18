@@ -6,7 +6,7 @@
 
 ## About me
 
-I am a research engineer at [CNRS](https://www.cnrs.fr/fr) and a member of the [WIMMICS team](https://www.inria.fr/en/wimmics) at Inria, where I work on natural language processing (NLP) and argument mining applied to the context of political debates, press articles, and social media.
+I am a research engineer at [CNRS](https://www.cnrs.fr/fr) and a member of the [MARIANNE team](https://team.inria.fr/marianne/) at Inria, where I work on natural language processing (NLP) and argument mining applied to the context of political debates, press articles, and social media.
 In my 7 years of working experience, I have developed diverse projects involving statistics, data science, machine learning, and artificial intelligence.
 This includes applications in social media analysis, gender representation in media, explainable AI, supply chain logistics, and money laundering detection.
 
