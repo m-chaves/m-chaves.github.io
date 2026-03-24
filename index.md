@@ -6,8 +6,10 @@
 
 ## About me
 
-I am a research engineer at [CNRS](https://www.cnrs.fr/fr) and a member of the [MARIANNE team](https://team.inria.fr/marianne/) at Inria, where I work on natural language processing (NLP) and argument mining applied to the context of political debates, press articles, and social media.
-In my 7 years of working experience, I have developed diverse projects involving statistics, data science, machine learning, and artificial intelligence.
+I am a PhD student at the [University of Groningen](https://www.rug.nl/), where I am part of the [Computational Linguistics](https://www.rug.nl/research/clcg/research/cl/) group.
+My research has focused on natural language processing (NLP) and computational argumentation applied to the context of political debates, press articles, and social media.
+Before my current role, I was a I am a research engineer at [CNRS](https://www.cnrs.fr/fr) and a member of the [MARIANNE team](https://team.inria.fr/marianne/) at Inria. 
+In my 8 years of working experience, I have developed diverse projects involving statistics, data science, machine learning, and artificial intelligence.
 This includes applications in social media analysis, gender representation in media, explainable AI, supply chain logistics, and money laundering detection.
 
 
@@ -33,14 +35,19 @@ Key words about me:
 
 ### Research
 
-> **RESEARCH ENGINEER**
-> **[INRIA](https://www.inria.fr/en/wimmics), [CNRS](https://www.cnrs.fr/fr), and [I3S laboratory](https://www.i3s.unice.fr/), France** | *April 2023 - Present*
+> **PHD CANDIDATE**
+> **[University of Groningen](https://www.rug.nl/), Netherlands** | *February 2026 - Present*
 >
-> Research in natural language processing (NLP) focused on fallacy detection and classification via argumentation, especially in the context of political debates and social media. Currently analysing press coverage of the war in Ukraine through argument mining techniques.
+> My PhD research focuses on the development of NLP and argument mining techniques for detecting, countering, and reducing climate misinformation and polarization in social media.
+
+> **RESEARCH ENGINEER**
+> **[CNRS](https://www.cnrs.fr/fr) and [Inria](https://inria.fr/en), France** | *April 2023 - August 2025*
+>
+> Conducted research in NLP and computational argumentation, focused on fallacy detection and argument mining within political debates and social media contexts. Key contributions include the creation and annotation of corpora, manipulation of transformer-based models, and developing graph-based representations of argument structures.
 
 
 > **INTERNSHIP**
-> **[I3S laboratory](https://www.i3s.unice.fr/) and [INRIA](https://team.inria.fr/maasai/research/), France** | *March 2022 - August 2022*
+> **[I3S laboratory](https://www.i3s.unice.fr/) and [INRIA](https://team.inria.fr/maasai/research/), France** | *March 2022 - August 2022 August 2022*
 >
 > Research on prototype-based interpretable neural networks, text classification models, and NLP techniques applied to the understanding of gender representation in visual media.
 >
@@ -55,15 +62,10 @@ Key words about me:
 
 ### Industry
 
-> **DATA SCIENTIST**
+> **JUNIOR DATA SCIENTIST**
 > **Walmart Supply Chain Analytics USA, Costa Rica** | *October 2018 - July 2020*
 >
-> Directed and developed data analysis projects to provide agile solutions to business partners. Main projects included an anomaly detection system, statistical sampling design, and consumption layer design.
-
-> **DATA ANALYST**
-> **Walmart Supply Chain Analytics USA, Costa Rica** | *January 2017 - October 2018*
->
-> Worked in data extraction, transformation, and visualization. Main projects included statistical process control techniques and KPI development.
+> Directed and developed data analysis projects. The main initiatives included anomaly detection systems, statistical sampling design, statistical process control techniques, and KPI development.
 
 > **DATA ANALYST**
 > **BAC Credomatic Regional Compliance Management, Costa Rica** | *April 2016 - December 2016*
