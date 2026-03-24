@@ -8,7 +8,7 @@
 
 I am a PhD student at the [University of Groningen](https://www.rug.nl/), where I am part of the [Computational Linguistics](https://www.rug.nl/research/clcg/research/cl/) group.
 My research has focused on natural language processing (NLP) and computational argumentation applied to the context of political debates, press articles, and social media.
-Before my current role, I was a I am a research engineer at [CNRS](https://www.cnrs.fr/fr) and a member of the [MARIANNE team](https://team.inria.fr/marianne/) at Inria. 
+Before my current role, I was a research engineer at [CNRS](https://www.cnrs.fr/fr) and a member of the [MARIANNE team](https://team.inria.fr/marianne/) at Inria. 
 In my 8 years of working experience, I have developed diverse projects involving statistics, data science, machine learning, and artificial intelligence.
 This includes applications in social media analysis, gender representation in media, explainable AI, supply chain logistics, and money laundering detection.
 
