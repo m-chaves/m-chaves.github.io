@@ -47,7 +47,7 @@ Key words about me:
 
 
 > **INTERNSHIP**
-> **[I3S laboratory](https://www.i3s.unice.fr/) and [INRIA](https://team.inria.fr/maasai/research/), France** | *March 2022 - August 2022 August 2022*
+> **[I3S laboratory](https://www.i3s.unice.fr/) and [INRIA](https://team.inria.fr/maasai/research/), France** | *March 2022 - August 2022*
 >
 > Research on prototype-based interpretable neural networks, text classification models, and NLP techniques applied to the understanding of gender representation in visual media.
 >
@@ -121,9 +121,9 @@ Goffredo, P., **Chaves, M.**, Villata, S., & Cabrio, E. (2023). Argument-based D
 
 <kbd>python</kbd> <kbd>R</kbd> <kbd>LaTeX</kbd> <kbd>SQL</kbd>
 
-## Conferences Reviewed
+<!-- ## Conferences Reviewed
 
 List of conferences where I have served as a reviewer:
 
 - **SAC 2025** (ACM Symposium on Applied Computing)
-- **LREC-COLING 2024** (Joint International Conference on Computational Linguistics, Language Resources and Evaluation)
+- **LREC-COLING 2024** (Joint International Conference on Computational Linguistics, Language Resources and Evaluation) -->
