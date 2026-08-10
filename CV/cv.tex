@@ -30,6 +30,9 @@
 \usepackage{url}
 \usepackage{hyperref}
 
+% Look for images in the shared img/ folder one level up
+\graphicspath{{../img/}}
+
 % Change the font if you want to, depending on whether
 % you're using pdflatex or xelatex/lualatex
 \ifxetexorluatex
@@ -85,19 +88,19 @@
 % \tagline{}
 % Cropped to square from https://en.wikipedia.org/wiki/Marissa_Mayer#/media/File:Marissa_Mayer_May_2014_(cropped).jpg, CC-BY 2.0
 %% You can add multiple photos on the left or right
-% \photoR{2.5cm}{mmayer-wikipedia-cc-by-2_0}
+% \photoR{2.7cm}{photo6_small}
 % \photoL{2cm}{Yacht_High,Suitcase_High}
 \personalinfo{%
   % Not all of these are required!
   % You can add your own with \printinfo{symbol}{detail}
   % \email{marianach16@gmail.com}
-  \email{mariana-eugenia.chaves-espinoza@inria.fr}
+  \email{m.e.chaves.espinoza@rug.nl}
   % \phone{+33 674280830 or +506 64628057}
   % \phone{+33 674280830}
   % \mailaddress{Address, Street, 00000 County}
   \homepage{m-chaves.github.io}
   \github{m-chaves} % I'm just making this up though.
-  \location{Nice, France}
+  \location{Groningen, The Netherlands}
   \printinfo{\faBirthdayCake}{Costa Rica 1995}
   % \linkedin{marissamayer}
 %   \orcid{0000-0000-0000-0000} % Obviously making this up too.
@@ -126,10 +129,17 @@
 \cvsection{About me}
 \begin{justify}
 \vspace{-1em}
-I am a research engineer at \href{https://www.cnrs.fr/en}{CNRS} and a member of the \href{https://team.inria.fr/marianne/}{MARIANNE} team at \href{https://inria.fr/en}{Inria}, where I work on natural language processing (NLP) and argument mining applied to the context of political debates, press articles, and social media.
-In my 7 years of working experience, I have developed diverse projects involving statistics, data science, machine learning, and artificial intelligence.
+
+I am a PhD student at the \href{https://www.rug.nl/}{University of Groningen}, where I am part of the \href{https://www.rug.nl/research/clcg/research/cl/}{Computational Linguistics} group.  
+My research has focused on natural language processing (NLP) and computational argumentation applied to the context of political debates, press articles, and social media.  
+In my 8 years of working experience, I have developed diverse projects involving statistics, data science, machine learning, and artificial intelligence.
 This includes applications in social media analysis, gender representation in media, explainable AI, supply chain logistics, and money laundering detection.
+
 \end{justify}
+
+% I am a research engineer at \href{https://www.cnrs.fr/en}{CNRS} and a member of the \href{https://www.inria.fr/en/marianne}{MARIANNE} team at \href{https://inria.fr/en}{Inria}, where I work on natural language processing (NLP) and argument mining applied to the context of political debates, press articles, and social media.
+% In my 7 years of working experience, I have developed diverse projects involving statistics, data science, machine learning, and artificial intelligence.
+% This includes applications in social media analysis, gender representation in media, explainable AI, supply chain logistics, and money laundering detection.
 
 % I'm a \textbf{statistician and data scientist} with 7 years of working experience in data modeling, visualization, extraction, and transformation.
 % Recently, I have been researching natural language processing techniques and text models in the context of fallacy detection and classification. I also worked in explainable and interpretable AI. In particular, with prototype-based interpretable neural networks and local interpretable model-agnostic explanations (LIME).
@@ -147,8 +157,15 @@ This includes applications in social media analysis, gender representation in me
 
 \cvsection{Work experience}
 
+\cveventtwo{PhD candidate}{University of Groningen, Netherlands}{2026 - Present}{}{
+  \begin{justify}
+    \vspace{-1em}
+    My PhD research focuses on the development of NLP and argument mining techniques for detecting, countering, and reducing climate misinformation and polarization in social media. 
+  \end{justify}
+}
+
 % \cvevent{Research Engineer}{CNRS and Inria, France}{Apr 2023 - Present}{}{
-\cvevent{Research Engineer}{CNRS and Inria, France}{2023 - Present}{}{
+\cveventtwo{Research Engineer}{CNRS and Inria, France}{2023 - 2025}{}{
 \begin{justify}
   \vspace{-1em}
   Conducted research in NLP and computational argumentation, focused on fallacy detection and argument mining within political debates and social media contexts.
@@ -157,7 +174,7 @@ This includes applications in social media analysis, gender representation in me
 }
 
 % \cvevent{Research internship}{I3S and Inria, France}{Mar - Aug 2022}{}
-\cvevent{Research internship}{I3S and Inria, France}{2022}{}
+\cveventtwo{Research internship}{I3S and Inria, France}{2022}{}
 {
 \begin{justify}
   \vspace{-1em}
@@ -170,7 +187,7 @@ This includes applications in social media analysis, gender representation in me
 }
 
 % \cvevent{Research internship}{Université Côte d'Azur and Inria, France}{Apr - Jul 2021}{}{
-\cvevent{Research internship}{Université Côte d'Azur and Inria, France}{2021}{}{
+\cveventtwo{Research internship}{Université Côte d'Azur and Inria, France}{2021}{}{
 \begin{justify}
   \vspace{-1em}
   Researched model-agnostic interpretability methods for image classification models, with a focus on enhancing the resampling process for Local Interpretable Model-agnostic Explanations (LIME).
@@ -178,7 +195,7 @@ This includes applications in social media analysis, gender representation in me
 }
 
 % \cvevent{Data scientist}{Walmart Supply Chain Analytics, Costa Rica}{Jan 2017 - Jul 2020}{}{
-\cvevent{Data scientist}{Walmart Supply Chain Analytics, Costa Rica}{2017 - 2020}{}{
+\cveventtwo{Data scientist}{Walmart Supply Chain Analytics, Costa Rica}{2017 - 2020}{}{
 \begin{justify}
   \vspace{-1em}
   Directed and developed data analysis projects.
@@ -188,7 +205,7 @@ This includes applications in social media analysis, gender representation in me
 }
 
 % \cvevent{Data analyst}{BAC Credomatic, Costa Rica}{Mar - Dec 2016}{}{
-\cvevent{Data analyst}{BAC Credomatic, Costa Rica}{2016}{}{
+\cveventtwo{Data analyst}{BAC Credomatic, Costa Rica}{2016}{}{
 \begin{justify}
   \vspace{-1em}
   Developed a money laundering detection system based on bayesian decision trees models applied on banking transactional data.
@@ -289,14 +306,14 @@ This includes applications in social media analysis, gender representation in me
 
 \begin{justify}
   \vspace{-1em}
-  \textbf{Mariana Chaves}, Elena Cabrio, Serena Villata. FALCON: A multi-label graph-based dataset for fallacy classification in the COVID-19 infodemic. SAC 2025. \href{https://hal.science/hal-04834405v1}{hal-04834405}
+  \textbf{Mariana Chaves}, Elena Cabrio, Serena Villata. FALCON: A multi-label graph-based dataset for fallacy classification in the COVID-19 infodemic. \textbf{SAC 2025}. \href{https://hal.science/hal-04834405v1}{hal-04834405}
 \end{justify}
 
 \vspace{1mm}
 
 \begin{justify}
   \vspace{-1em}
-  Pierpaolo Goffredo, \textbf{Mariana Chaves}, Serena Villata, and Elena Cabrio. Argument-based Detection and Classification of Fallacies in Political Debates. EMNLP 2023. \href{https://inria.hal.science/hal-04260221}{hal-04260221}
+  Pierpaolo Goffredo, \textbf{Mariana Chaves}, Serena Villata, and Elena Cabrio. Argument-based Detection and Classification of Fallacies in Political Debates. \textbf{EMNLP 2023}. \href{https://inria.hal.science/hal-04260221}{hal-04260221}
 \end{justify}
 
 % \newpage
