@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1786374851.4589 "/home/m-chaves/github_website/m-chaves.github.io/CV/cv.tex" "cv.pdf" "cv" 1786374852.73484 0
+["pdflatex"] 1791385233.62905 "/home/m-chaves/github_website/m-chaves.github.io/CV/cv.tex" "cv.pdf" "cv" 1791385241.35647 0
   "/etc/texmf/web2c/texmf.cnf" 1774372342.95284 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/m-chaves/github_website/m-chaves.github.io/CV/cv.tex" 1786374851.18131 14722 1a983f66a1d334e7d3349d3c95ca738e ""
+  "/home/m-chaves/github_website/m-chaves.github.io/CV/cv.tex" 1791385228.58566 14722 edde3de3ff3ff9ffdd78f9f57732a3d9 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1622837620 3083 a707712f77b073b3833e4b1334a30e99 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -220,10 +220,10 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1774372394.09341 5467704 fffa5403cef27e3b707a5c167ffbab87 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1774372467 8213718 ff48518e57c8d7f3961be66e3c42ca53 ""
   "altacv.cls" 1774369578.76246 15327 606e8f9f39625475f0ba08b1f576ebc7 ""
-  "cv.aux" 1786374852.58529 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "cv.out" 1786374852.49329 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv.tex" 1786374851.18131 14722 1a983f66a1d334e7d3349d3c95ca738e ""
-  "pdfa.xmpi" 1786374852.1373 5042 f7caf27525244881d31bfd0131c220eb "pdflatex"
+  "cv.aux" 1791385241.14979 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "cv.out" 1791385240.97779 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv.tex" 1791385228.58566 14722 edde3de3ff3ff9ffdd78f9f57732a3d9 ""
+  "pdfa.xmpi" 1791385236.72173 5042 b4679a27581a56a20ab4b5c84e9932a6 "pdflatex"
   (generated)
   "cv.aux"
   "cv.log"
