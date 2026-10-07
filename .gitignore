@@ -1,3 +1,4 @@
+## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
 *.log
@@ -9,10 +10,38 @@
 *.fot
 *.cb
 *.cb2
-*.fdb_latexmk
-*.synctex.gz
 .*.lb
-_config.local.yml
-Gemfile.lock
-.sass-cache/
-_site/
+.*.bbl
+
+## Intermediate documents:
+*.dvi
+*.xdv
+*-converted-to.*
+# these rules might exclude image files for figures etc.
+# *.ps
+# *.eps
+# *.pdf
+
+## Bibliography auxiliary files (bibtex/biblatex/biber):
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+
+## Build tool auxiliary files:
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+*.rubbercache
+rubber.cache
+
+#Deleteme files
+*/deleteme*
+
+# Virtial environment files
+**/*venv*/
